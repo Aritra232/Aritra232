@@ -1,4 +1,4 @@
-![Programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/299569244_2262753433898669_2498144193027830379_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=174925&_nc_eui2=AeH8wYXOHr591BaSKiUjiOOBi7shhi0IbgSLuyGGLQhuBARFnIQu-mFFSa9lhSC2E4NACb3cLRNyDOAZs360OVJL&_nc_ohc=KfBytWs3pisAX-C84Bs&_nc_ht=scontent.fdac14-1.fna&oh=00_AT-Ij3wdb-p35rJTVfN0KnuwmtMwuhiFxFeV4KF6BGXKrg&oe=63582B03
 
 ### Hi there 👋, myself Aritra Das
 #### Programmer
