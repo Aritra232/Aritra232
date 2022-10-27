@@ -6,7 +6,7 @@
 
 I love to do programming. When someone give me any task or project i become excited because from that particular project may be i will gain my knowledge.
 
-Skills: C / C++ / JAVA / PYTHON / SQL
+Skills: C / C++ / JAVA / PYTHON / SQL / PSpice / AutoCad
 
 - 🔭 I’m currently working on University 
 - 🌱 I’m currently learning Python 
