@@ -5,6 +5,8 @@
 
 
 I love to do programming. When someone give me any task or project i become excited because from that particular project may be i will gain my knowledge.
+I have completed my SSC from Ideal School & College, Motijheel, Dhaka, Bangladesh and HSC from Dhaka College.
+Now, i am currently studying in East West University 
 
 Skills: C / C++ / JAVA / PYTHON / SQL / PSpice / AutoCad
 
