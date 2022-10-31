@@ -8,7 +8,7 @@ I love to do programming. When someone give me any task or project i become exci
 I have completed my SSC from Ideal School & College, Motijheel, Dhaka, Bangladesh and HSC from Dhaka College.
 Now, i am currently studying in East West University 
 
-Skills: C / C++ / JAVA / PYTHON / SQL / PSpice / AutoCad
+Skills: C / C++ / JAVA / PYTHON / SQL / PSpice / AutoCad / Oracle 
 
 - 🔭 I’m currently working on University 
 - 🌱 I’m currently learning Python 
